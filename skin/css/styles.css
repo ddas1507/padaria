@@ -1,0 +1,46 @@
+/*
+Theme Name: Loto Fácil
+Theme URI: https://dionesjobs.com.br/themes/dionesjobs/
+Author: Diones Diego
+Author URI: https://dionesdiego.com.br/
+Description: Primeiro Tema no Wordpress
+Version: 1.0
+License: Padrão
+Tags: first-theme, 
+Text Domain: dionesjobs
+*/
+
+
+body{
+	margin:0 auto;
+}
+#header{
+	width:100%;
+	margin:0 auto;
+	border:0px solid #ccc;
+}
+#page{
+	width:100%;
+	margin: 0 auto;
+    position: relative;
+	margin-left:5px;
+	border:0px solid #ccc;
+}
+#nav{
+    float: left;
+    position: relative;
+}
+#content{
+	float: left;
+	position: relative;
+	margin-left: 5px;
+	border: 0px solid #ccc;
+	width: 80%;
+	height: auto;
+}
+#footer{
+	float:left;
+	width:100%;
+	margin:0 auto;
+	border:0px solid #ccc;
+}
